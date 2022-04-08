@@ -10,6 +10,7 @@ Senior at Brigham Young University - Idaho
 | <a href="https://github.com/BrandonPerry328">GitHub</a>
 </div>
 
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
