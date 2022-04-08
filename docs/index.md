@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Brandon Perry's Resume
 ---
 # Brandon Perry
