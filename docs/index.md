@@ -53,6 +53,7 @@ __FredMeyers__, Parcel/Front-End Clerk
 - HTML/CSS, JavaScript
 - Unity
 - SQL
+
 <!-- ### Footer
 
 Last updated: April 2022 -->
